@@ -5,7 +5,6 @@ export default function Servicos(){
     <>
       <h1>Hello World!</h1>
       <Menu />
-      <main>
         <h2>Serviços</h2>
         <ol>
           <li>Bla Bla Bla</li>
@@ -14,7 +13,6 @@ export default function Servicos(){
           <li>Bla Bla Bla</li>
           <li>Bla Bla Bla</li>
         </ol>
-      </main>
     </>
   )
 }
